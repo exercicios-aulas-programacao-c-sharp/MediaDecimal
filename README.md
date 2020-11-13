@@ -1,5 +1,9 @@
 # MediaDecimal
 
+`Exercício:` https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/lacos.md#exerc%C3%ADcio-mediadecimal
+
+`Repositório:` https://github.com/exercicios-aulas-programacao-c-sharp/MediaDecimal
+
 `[console: MediaDecimal]` Receba a quantidade de números a serem digitados. Receba a quantidade indicada de números decimais. Exiba a soma e a média entre os valores digitados. Exiba também o maior e o menor número digitado.
 
 Ex.:
